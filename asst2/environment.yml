@@ -2,6 +2,7 @@ name: asst2
 channels:
   - conda-forge
 dependencies:
+  - python=3.6
   - numpy
   - matplotlib
   - jupyter
